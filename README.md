@@ -66,7 +66,7 @@ Commercial and cloud-managed inference platforms designed to complement on-devic
 
 ## 🟩 Open-Source Software
 
-Curated community-driven, self-hosted, and embedded on-device inference runtimes and edge frameworks, ordered by GitHub Stars_Count:
+Curated community-driven, self-hosted, and embedded on-device inference runtimes and edge frameworks, ordered by GitHub_Stars_Count:
 
 ### 🦙 Ollama
 [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
