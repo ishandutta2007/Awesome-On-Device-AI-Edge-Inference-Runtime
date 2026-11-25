@@ -36,6 +36,7 @@
   - [TrnRT](#-trnrt)
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -162,7 +163,24 @@ TrnRT is an open inference engine engineered specifically for large language mod
 
 ## 📈 Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-On-Device-AI-Edge-Inference-Runtime&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-On-Device-AI-Edge-Inference-Runtime&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-On-Device-AI-Edge-Inference-Runtime&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-On-Device-AI-Edge-Inference-Runtime&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and supporting this curated resource! If you find this project valuable for your local AI, edge runtime, or on-device intelligence workflows, here are a few wonderful ways you can show support:
+
+- 🌟 **Star this repository** to help others discover edge AI and local inference tooling.
+- 🍴 **Fork the repo** to contribute your own favorite open-source runtimes, engines, and benchmarks.
+- 📢 **Share this list** with fellow developers, researchers, and AI builders on social media, Discord, or your team chats.
+- ☕ **Buy me a coffee / Sponsor the project:** Your support directly fuels the research and maintenance of this list. Support my work via my [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
